@@ -13,3 +13,8 @@ ul {
 #msg {
     font-family: monospace;
 }
+
+.light-theme {
+    color: #000000;
+    background: #00fF00;
+}
